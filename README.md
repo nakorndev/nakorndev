@@ -9,3 +9,4 @@
 - Playing all game genres. Especially racing, action, and singleplayer. 😆 
 - Love anime, but didn't remember character names. 😅
 - F1 watcher since 2020. Thanks for F1 Game and Netflix. 😎
+- Married, one girl, family lover. 👨‍👩‍👧
