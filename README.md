@@ -1,5 +1,7 @@
 # Hello, world! 👋🌐
 
+I'm Thai. Love the king? ermmm.
+
 ## Top programming languages and tools
 
 1. (95%) HTML
