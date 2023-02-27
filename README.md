@@ -1,15 +1,6 @@
 # Hello, world! 👋🌐
 
-## Top programming languages and tools
-
-1. (95%) HTML
-2. (90%) CSS
-3. (90%) JavaScript
-4. (90%) Node.js (Express.js)
-5. (85%) Vue.js (Nuxt.js)
-6. (70%) php (Laravel)
-7. (60%) MongoDB
-8. (50%) Docker and Cloud Computing
+คอร์สเรียนของผมสามารถดูทั้งหมดได้ที่ [https://nakorncode.com/](https://nakorncode.com/)
 
 ## Stats
 
